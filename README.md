@@ -1,10 +1,12 @@
 # DBS_WebDesign_Individual_Assignment
-Created using only HTML, CSS, Javascript
 
-Assignment - only the technologies above were permitted for this assignment and
-no GUI elements or images were provided!
+Assignment for my Web Design Module, Level 8, Higher Diploma in Computer Science (Software Development) 
+in DBS, Dublin Business School.
+
+Developed using only HTML, CSS, Javascript - no other technologies above were permitted for this assignment 
+and all GUI elements or images were self sourced.
 
 (There is a form on the contact page, with some light Javascript validation, 
-but not wired to a database etc. - not required for this assignment).
+but this is not wired up to anything, e.g. a database, not required for this assignment).
 
 
